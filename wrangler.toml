@@ -1,6 +1,7 @@
-name = "fly3"
+name = "fly4"
 main = "_worker.js"
 compatibility_date = "2025-09-07"
 
 keep_vars = true
+
 
