@@ -1,7 +1,8 @@
-name = "b"
+name = "c"
 main = "_worker.js"
 compatibility_date = "2025-11-04"
 keep_vars = true
+
 
 
 
